@@ -2,8 +2,6 @@
 /// 
 /// @jujuadams 2020-01-18
 
-show_debug_message(json_encode(async_load));
-
 switch(async_load[? "type"])
 {
     case network_type_connect:
