@@ -1,0 +1,542 @@
+{
+    "id": "b9d56c77-f4c9-4114-b504-dd37fb53fdf6",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "b38de86e-7a12-4cf3-b2f7-909ad9a88173",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "66347afc-1692-4a95-a2ae-d23f6694ab53",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "0e49c211-598c-4277-89aa-2c4efd750790",
+            "Value": {
+                "id": "a1d936d8-b8af-4534-819e-cbb323d6bbe7",
+                "resourcePath": "views\\0e49c211-598c-4277-89aa-2c4efd750790.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "12bdf001-ef55-4257-9b55-8b7b295e93b3",
+            "Value": {
+                "id": "23c7feec-30bd-4a02-a4ea-4a450ff67d89",
+                "resourcePath": "views\\12bdf001-ef55-4257-9b55-8b7b295e93b3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "145fae1d-a648-400c-ac37-c64b845ac267",
+            "Value": {
+                "id": "7c0f59e7-6ef0-4bd0-b610-adff222a93fb",
+                "resourcePath": "scripts\\youtube_api_my_channel\\youtube_api_my_channel.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "175f2723-36cd-4244-bbbf-a7d4327eff17",
+            "Value": {
+                "id": "231b824f-05de-4670-b5a6-d4ee76772dd9",
+                "resourcePath": "scripts\\__youtube_poll_device_code\\__youtube_poll_device_code.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "18278625-a299-40ec-bdb1-ef92340cd765",
+            "Value": {
+                "id": "977f331d-0001-413d-8105-46baa20bed4c",
+                "resourcePath": "views\\18278625-a299-40ec-bdb1-ef92340cd765.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1b9cf783-c984-4cf2-977c-6e822ebb2930",
+            "Value": {
+                "id": "d7f990d5-6b38-4fb4-95b5-7474afcce1cd",
+                "resourcePath": "views\\1b9cf783-c984-4cf2-977c-6e822ebb2930.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1cdc99e8-0a97-46a8-9c09-bcc5bf060450",
+            "Value": {
+                "id": "29cb0861-9ee1-4284-8571-10e8cc190d96",
+                "resourcePath": "views\\1cdc99e8-0a97-46a8-9c09-bcc5bf060450.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "278a9116-87fa-40e9-b291-fb1fbebdb11e",
+            "Value": {
+                "id": "0450cd0a-fb79-445f-af41-24fd47612f29",
+                "resourcePath": "views\\278a9116-87fa-40e9-b291-fb1fbebdb11e.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2b1f5fc6-27ef-4da2-bbdd-4d69f0acd826",
+            "Value": {
+                "id": "29ba7bb1-bc1f-4c98-9e09-05ceb231c7d5",
+                "resourcePath": "scripts\\youtube_is_ready\\youtube_is_ready.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2bf8d41a-c40c-47dd-bde0-fbd65d761350",
+            "Value": {
+                "id": "a0b5fa88-5f67-47ec-8192-a4f41dfbc73c",
+                "resourcePath": "views\\2bf8d41a-c40c-47dd-bde0-fbd65d761350.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "32574c29-a53b-4142-b1b4-b8bcf70f6ec1",
+            "Value": {
+                "id": "d35f7498-86af-4a51-bd39-7970d92d8340",
+                "resourcePath": "scripts\\__youtube_server_create\\__youtube_server_create.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "33077b89-79ed-4f84-8290-772d5f079a1c",
+            "Value": {
+                "id": "4908a403-4477-4be1-b426-f94be1af1a9f",
+                "resourcePath": "views\\33077b89-79ed-4f84-8290-772d5f079a1c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "e9449939-655e-4fb1-86cc-c5d63104a5e8",
+                "resourcePath": "options\\switch\\options_switch.yy",
+                "resourceType": "GMSwitchOptions"
+            }
+        },
+        {
+            "Key": "3a5af38c-757d-44ae-98c0-5d4b09e14e6a",
+            "Value": {
+                "id": "38fe6109-ca4c-4d74-9034-083a1896e583",
+                "resourcePath": "options\\ps4\\options_ps4.yy",
+                "resourceType": "GMPS4Options"
+            }
+        },
+        {
+            "Key": "41c91089-b129-4e0c-bf1a-a038530ea693",
+            "Value": {
+                "id": "f305dd71-6654-4915-8d00-6fb1bf12ad89",
+                "resourcePath": "views\\41c91089-b129-4e0c-bf1a-a038530ea693.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "4b4a25fd-b60c-47e3-9a67-203cc7efb513",
+            "Value": {
+                "id": "7100f36b-0679-4bd1-aa04-9a311a4fa613",
+                "resourcePath": "scripts\\callback_get_live_broadcasts\\callback_get_live_broadcasts.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "53981d76-0834-4a94-8607-add9405d4775",
+            "Value": {
+                "id": "32a9a9ea-5989-45c5-86b2-9e1b48306921",
+                "resourcePath": "views\\53981d76-0834-4a94-8607-add9405d4775.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "61c1aa8e-453e-42f2-a458-8007b6d39204",
+            "Value": {
+                "id": "223c9c37-76bf-437a-bab0-a7d8df72820e",
+                "resourcePath": "scripts\\youtube_get_user_code\\youtube_get_user_code.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "69227725-14ed-4e9e-91c7-ef418139b1fc",
+            "Value": {
+                "id": "f1547cab-add9-44c2-8559-87e495da6255",
+                "resourcePath": "scripts\\__youtube_exchange_auth_code\\__youtube_exchange_auth_code.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "72b08c27-ab54-47b6-9536-4e48a884a31a",
+            "Value": {
+                "id": "957056e9-3c0a-4a57-af08-4e4618e642d0",
+                "resourcePath": "views\\72b08c27-ab54-47b6-9536-4e48a884a31a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7342b17b-cc81-4c04-b611-0c36906fa5f7",
+            "Value": {
+                "id": "b395eb2d-6386-4421-ba50-82a216d0d87f",
+                "resourcePath": "scripts\\__youtube_config\\__youtube_config.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
+            "Value": {
+                "id": "98fe159c-3dd9-4e5a-bbef-41617bcd5d4e",
+                "resourcePath": "options\\html5\\options_html5.yy",
+                "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
+            "Value": {
+                "id": "672f126b-2cb3-4dee-8b87-ee1edc073333",
+                "resourcePath": "options\\windowsuap\\options_windowsuap.yy",
+                "resourceType": "GMWindowsUAPOptions"
+            }
+        },
+        {
+            "Key": "82a486da-abaa-48a2-a321-592a924207b2",
+            "Value": {
+                "id": "8841f027-b7b1-443f-a8c3-d404af63293f",
+                "resourcePath": "scripts\\__youtube_error\\__youtube_error.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "82f15715-7549-4ee2-9294-3f996975d929",
+            "Value": {
+                "id": "597cc275-e3df-4e1a-adf8-364503a32ff5",
+                "resourcePath": "views\\82f15715-7549-4ee2-9294-3f996975d929.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
+            "Value": {
+                "id": "d1eae7b0-c868-4467-bc77-fc0d7f1edac5",
+                "resourcePath": "options\\ios\\options_ios.yy",
+                "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8c19e1ff-c105-410d-b6c2-10bd68574597",
+            "Value": {
+                "id": "be4ac839-5ac5-4e2b-80b8-93b2b6dcd1e7",
+                "resourcePath": "views\\8c19e1ff-c105-410d-b6c2-10bd68574597.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
+            "Value": {
+                "id": "088f63c4-6611-4de2-bf14-df9fe99d2ae9",
+                "resourcePath": "options\\tvos\\options_tvos.yy",
+                "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "95520c1d-00ac-4bd6-90ec-e60cf3f4dde3",
+            "Value": {
+                "id": "ced8eca0-d8a9-43f3-93de-a87ce5ae639e",
+                "resourcePath": "scripts\\__youtube_server_destroy\\__youtube_server_destroy.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9920b556-cb69-4e56-91c7-b5d9450b82f0",
+            "Value": {
+                "id": "f9f41dc5-0ea7-4ca0-a023-d6c22c46c400",
+                "resourcePath": "scripts\\youtube_get_state\\youtube_get_state.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9f5db149-cbfe-46b0-b1ae-befee6ca54c1",
+            "Value": {
+                "id": "81b1bfc2-600b-4e48-9ace-1442c6a87a0d",
+                "resourcePath": "scripts\\youtube_is_pending\\youtube_is_pending.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
+            "Value": {
+                "id": "707042a9-8260-460c-b4ce-854182294996",
+                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
+                "resourceType": "GMAmazonFireOptions"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "df3476c1-9ef9-4ea6-a072-0abf757d8c96",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "afa3c40f-ac6d-40ba-aade-865d97c473ba",
+            "Value": {
+                "id": "3d628597-8a9d-42d8-ad0c-70d089f380a8",
+                "resourcePath": "scripts\\youtube_start_device_auth\\youtube_start_device_auth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b2a35510-1f4e-4082-8ec4-7f05d4f38072",
+            "Value": {
+                "id": "9f47b494-1f0d-45d3-a23b-9904da2631b9",
+                "resourcePath": "scripts\\callback_get_livechatid\\callback_get_livechatid.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b2feef2b-cc2e-40ce-a9ab-4c84728a0100",
+            "Value": {
+                "id": "b83d93fd-fd41-4600-b278-5d1c8e2d710b",
+                "resourcePath": "scripts\\youtube_start_installed_app_auth\\youtube_start_installed_app_auth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b6453db9-44d3-4e1b-ade2-045216160dbe",
+            "Value": {
+                "id": "ee16549b-c360-450f-bc4c-50c5ef397db3",
+                "resourcePath": "scripts\\youtube_has_access_token\\youtube_has_access_token.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b7183812-6a30-469b-9767-a3e1f7a825c3",
+            "Value": {
+                "id": "952f58fd-83cb-4713-8289-ac1bf8a2a828",
+                "resourcePath": "scripts\\__youtube_refresh_access_token\\__youtube_refresh_access_token.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b8993fe3-ee2a-4400-be4b-faa6e812c34f",
+            "Value": {
+                "id": "83483b42-304a-4b1f-b8ab-20d2d8e27bdc",
+                "resourcePath": "views\\b8993fe3-ee2a-4400-be4b-faa6e812c34f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bc876f58-2dbd-409f-a4f4-5608babba906",
+            "Value": {
+                "id": "86b4c3c7-f0d7-4758-aed4-86842fca965d",
+                "resourcePath": "views\\bc876f58-2dbd-409f-a4f4-5608babba906.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bd6d1e6c-22fc-4376-aabc-ff4c76037660",
+            "Value": {
+                "id": "52d2b84d-8152-45ed-88db-92be1d1b9bcc",
+                "resourcePath": "views\\bd6d1e6c-22fc-4376-aabc-ff4c76037660.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c1066dfe-ccc1-418f-828d-fa15b6fc29d3",
+            "Value": {
+                "id": "27ed5109-fdcf-410d-ae78-7dbeba65295a",
+                "resourcePath": "views\\c1066dfe-ccc1-418f-828d-fa15b6fc29d3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c1ae78ef-a131-47fe-bb4d-850a2d8290fb",
+            "Value": {
+                "id": "e8e1b5b2-e5d3-44bb-a346-aa30493f2e56",
+                "resourcePath": "scripts\\youtube_GET\\youtube_GET.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c723c9f9-e422-410a-8a25-120501e907c5",
+            "Value": {
+                "id": "5762bb73-4281-40d7-8396-562b8f92737c",
+                "resourcePath": "scripts\\youtube_step\\youtube_step.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "e4ffc6a8-ce42-47e4-8588-435fa02a1320",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d02d0047-2ed5-44f3-a3b0-db6a7b9dbc65",
+            "Value": {
+                "id": "f918b630-bd77-423f-ad71-964a397317ac",
+                "resourcePath": "views\\d02d0047-2ed5-44f3-a3b0-db6a7b9dbc65.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d07afa69-13e8-42cb-9c2a-5229a19126d1",
+            "Value": {
+                "id": "d91bbd41-1a63-4af5-84c7-f575fe629a61",
+                "resourcePath": "objects\\objTest\\objTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d0bc272d-cece-441c-bf2b-b386af04401d",
+            "Value": {
+                "id": "603367ca-2560-4ed5-a54a-00d6d6961e61",
+                "resourcePath": "views\\d0bc272d-cece-441c-bf2b-b386af04401d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d1c43c92-bb85-4f5b-88ae-92df149d9822",
+            "Value": {
+                "id": "974775d8-42b3-461d-bc5a-258396653555",
+                "resourcePath": "scripts\\__youtube_reset\\__youtube_reset.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "dfc96f6d-395d-4cf6-82e9-f8a087962553",
+            "Value": {
+                "id": "7ab5b42e-3cd3-4d25-957e-a0e2f54b13af",
+                "resourcePath": "scripts\\__youtube_message\\__youtube_message.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
+            "Value": {
+                "id": "ead09c70-4bcd-4adb-ab38-476e27ddce47",
+                "resourcePath": "options\\android\\options_android.yy",
+                "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e9949e3d-7356-4738-ac90-d3377e850d5e",
+            "Value": {
+                "id": "f042b860-e6a8-4eae-bf58-e3d88af57f8a",
+                "resourcePath": "rooms\\rmMain\\rmMain.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ebe9b598-00ce-4baa-aa0e-26fbc2a001cb",
+            "Value": {
+                "id": "e4daa472-32dc-463e-8195-d26dbee34ed3",
+                "resourcePath": "scripts\\youtube_async_networking\\youtube_async_networking.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eced3f9c-7607-4526-85d3-d93336ddcd31",
+            "Value": {
+                "id": "3536b8cc-5d51-4d67-8a47-951a5956f7ca",
+                "resourcePath": "views\\eced3f9c-7607-4526-85d3-d93336ddcd31.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ed761056-c7ab-4078-bc54-094c7ac0be58",
+            "Value": {
+                "id": "dcce3ba5-e77e-4b92-90ff-33508ab5dfae",
+                "resourcePath": "scripts\\youtube_async_http\\youtube_async_http.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ef5b8d55-a0a8-4e90-ac7a-bf5f2e77a8d1",
+            "Value": {
+                "id": "61119505-9919-4059-823a-0e1317d1e54c",
+                "resourcePath": "scripts\\youtube_init\\youtube_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "a5565d13-1246-455d-bc79-20e4b7b1abd5",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f853e1ca-a000-4f55-9be5-1798ddbe99df",
+            "Value": {
+                "id": "d1a6adbf-5630-4131-9275-ac3a10def086",
+                "resourcePath": "scripts\\youtube_api_my_live_broadcasts\\youtube_api_my_live_broadcasts.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f85efd3d-bcec-4ec0-8226-da808afda79d",
+            "Value": {
+                "id": "73999a7e-7d8c-4a25-981c-650af58be28a",
+                "resourcePath": "options\\xboxone\\options_xboxone.yy",
+                "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "fa407e2c-eb16-4ff2-aa9a-fe6869dc45eb",
+            "Value": {
+                "id": "c3427ab4-3fa2-46bc-9c30-bc5c4ac19edc",
+                "resourcePath": "views\\fa407e2c-eb16-4ff2-aa9a-fe6869dc45eb.yy",
+                "resourceType": "GMFolder"
+            }
+        }
+    ],
+    "script_order": [
+        "7342b17b-cc81-4c04-b611-0c36906fa5f7",
+        "ef5b8d55-a0a8-4e90-ac7a-bf5f2e77a8d1",
+        "c723c9f9-e422-410a-8a25-120501e907c5",
+        "ed761056-c7ab-4078-bc54-094c7ac0be58",
+        "ebe9b598-00ce-4baa-aa0e-26fbc2a001cb",
+        "afa3c40f-ac6d-40ba-aade-865d97c473ba",
+        "b2feef2b-cc2e-40ce-a9ab-4c84728a0100",
+        "145fae1d-a648-400c-ac37-c64b845ac267",
+        "f853e1ca-a000-4f55-9be5-1798ddbe99df",
+        "c1ae78ef-a131-47fe-bb4d-850a2d8290fb",
+        "9920b556-cb69-4e56-91c7-b5d9450b82f0",
+        "61c1aa8e-453e-42f2-a458-8007b6d39204",
+        "b6453db9-44d3-4e1b-ade2-045216160dbe",
+        "2b1f5fc6-27ef-4da2-bbdd-4d69f0acd826",
+        "9f5db149-cbfe-46b0-b1ae-befee6ca54c1",
+        "82a486da-abaa-48a2-a321-592a924207b2",
+        "dfc96f6d-395d-4cf6-82e9-f8a087962553",
+        "175f2723-36cd-4244-bbbf-a7d4327eff17",
+        "b7183812-6a30-469b-9767-a3e1f7a825c3",
+        "69227725-14ed-4e9e-91c7-ef418139b1fc",
+        "32574c29-a53b-4142-b1b4-b8bcf70f6ec1",
+        "95520c1d-00ac-4bd6-90ec-e60cf3f4dde3",
+        "d1c43c92-bb85-4f5b-88ae-92df149d9822",
+        "4b4a25fd-b60c-47e3-9a67-203cc7efb513",
+        "b2a35510-1f4e-4082-8ec4-7f05d4f38072"
+    ],
+    "tutorial": ""
+}
