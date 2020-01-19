@@ -1,4 +1,4 @@
-<h1 align="center">YouTube 1.0.0</h1>
+<h1 align="center">YouTube 1.0.0 (OAuth2)</h1>
 
 ### @jujuadams
 
